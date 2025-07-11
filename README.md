@@ -1,4 +1,4 @@
-# Ex7_Image_compression_and_dimensionality_reduction
+# Ex7_Image_compression
 
 This programming exercise was done as part of Coursera's Machine Learning Course (Stanford University), taught by Prof. Andrew Ng.
 
